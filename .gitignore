@@ -1,0 +1,50 @@
+
+
+# Build artifacts
+bin/
+obj/
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
+
+# User-specific files
+*.userprefs
+*.suo
+*.csproj.user
+
+# NuGet Packages
+*.nuget/
+packages/
+
+# Visual Studio files
+*.vs/
+*.vscode/
+
+# Test Results
+TestResults/
+
+# Resharper files
+_ReSharper.*/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+AnyCPU/
+*.exe
+*.pdb
+*.dll
+*.exe.config
+*.bin/
+*.deploy/
+
+# MSTest Test Files
+*.trx
+*.vsmdi
+
+upload/
+testApp.csproj
